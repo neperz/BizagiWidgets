@@ -1,0 +1,74 @@
+[
+  {
+    "id": "oCMXjxwDT",
+    "name": "Cité-Limoilou",
+    "properties": {
+      "id": "0689488c-88b1-4946-83ea-8288616c522e",
+      "userfieldGuid": "0689488c-88b1-4946-83ea-8288616c522e",
+      "designMode": false,
+      "type": "userfield",
+      "xpath": "790Uoqjs1",
+      "value": "{\"type\": \"Feature\",\"properties\": {\"name\": \"Cité-Limoilou\",\"amenity\": \"La Cité-Limoilou\",\"popupContent\": \"La Cité-Limoilou is the central borough of Quebec City, the oldest (in terms of architecture), and the most populous, comprising 21.85% of the city's total population\"},\"geometry\": {\"type\": \"Point\",\"coordinates\": [46.825063, -71.229277]} }",
+      "control": "LeafletMaps",
+      "extendedData": "",
+      "displayName": "Mapa",
+      "visible": true,
+      "editable": true,
+      "required": true,
+      "displayType": "value",
+      "labelAlign": "v8Zr1610o",
+      "valueAlign": "SGjcvZfKL",
+      "labelWidth": 770,
+      "valueWidth": 745,
+      "mapboxToken": "pk.eyJ1IjoibmVwZXJ6IiwiYSI6ImNqc3V1YnVkYzAwN3M0OW56aWcwNTY2Y2EifQ.8XCOcP2ql8vCzYQDqcy-LQ"
+    }
+  },
+  {
+    "id": "zRTC5YKAv",
+    "name": "Saint-Jean-Chrysostome",
+    "properties": {
+      "id": "0689488c-88b1-4946-83ea-8288616c522e",
+      "userfieldGuid": "0689488c-88b1-4946-83ea-8288616c522e",
+      "designMode": false,
+      "type": "userfield",
+      "xpath": "41kWdtWfH",
+      "value": "{\"type\": \"Feature\",\"properties\": {\"name\": \"Saint-Jean-Chrysostome \",\"amenity\": \"Saint-Jean-Chrysostome \",\"popupContent\": \"Saint-Jean-Chrysostome est l'un des dix quartiers de la ville de Lévis et l'un des quatre situés dans l'arrondissement Les Chutes-de-la-Chaudière-Est au Québec.\"},\"geometry\": {\"type\": \"Point\",\"coordinates\": [46.720681, -71.185327]} }",
+      "control": "LeafletMaps",
+      "extendedData": "",
+      "displayName": "8HbpZkeN6",
+      "visible": true,
+      "editable": true,
+      "required": true,
+      "displayType": "value",
+      "labelAlign": "jL0v1QImK",
+      "valueAlign": "sEY3Tmah5",
+      "labelWidth": 801,
+      "valueWidth": 777,
+      "mapboxToken": "pk.eyJ1IjoibmVwZXJ6IiwiYSI6ImNqc3V1YnVkYzAwN3M0OW56aWcwNTY2Y2EifQ.8XCOcP2ql8vCzYQDqcy-LQ"
+    }
+  },
+  {
+    "id": "xupCqh8BS",
+    "name": "Saint Joseph's Oratory of Mount Royal",
+    "properties": {
+      "id": "0689488c-88b1-4946-83ea-8288616c522e",
+      "userfieldGuid": "0689488c-88b1-4946-83ea-8288616c522e",
+      "designMode": false,
+      "type": "userfield",
+      "xpath": "tL6md5F37",
+      "value": "{\"type\": \"Feature\",\"properties\": {\"name\": \"Oratory\",\"amenity\": \"Saint Joseph's Oratory of Mount Royal\",\"popupContent\": \"Saint Joseph's Oratory of Mount Royal (French: Oratoire Saint-Joseph du Mont-Royal) is a Roman Catholic minor basilica and national shrine on Mount Royal's Westmount Summit in Montreal, Quebec. It is Canada's largest church and claims to have one of the largest domes in the world\"},\"geometry\": {\"type\": \"Point\",\"coordinates\": [45.4996251,-73.6037545]} }",
+      "control": "LeafletMaps",
+      "extendedData": "",
+      "displayName": "MC2ZGPVUT",
+      "visible": true,
+      "editable": true,
+      "required": true,
+      "displayType": "value",
+      "labelAlign": "CvqWbbwzS",
+      "valueAlign": "RviLhQGma",
+      "labelWidth": 763,
+      "valueWidth": 850,
+      "mapboxToken": "pk.eyJ1IjoibmVwZXJ6IiwiYSI6ImNqc3V1YnVkYzAwN3M0OW56aWcwNTY2Y2EifQ.8XCOcP2ql8vCzYQDqcy-LQ"
+    }
+  }
+]
